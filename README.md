@@ -75,9 +75,10 @@ The master branch works with **PyTorch 1.5+**.
 
 ## What's New
 
-v0.25.0 was released in 6/2/2022:
+v0.27.0 was released in 7/28/2022:
 
-- Support PyTorch backend on MLU
+- Add Swin-L Transformer models
+- Update ERFNet result on Cityscapes
 
 Please refer to [changelog.md](docs/en/changelog.md) for details and release history.
 
@@ -204,7 +205,7 @@ If you find this project useful in your research, please consider cite:
 
 ## License
 
-This project is released under the [Apache 2.0 license](LICENSE).
+MMSegmentation is released under the Apache 2.0 license, while some specific features in this library are with other licenses. Please refer to [LICENSES.md](LICENSES.md) for the careful check, if you are using our code for commercial matters.
 
 ## Projects in OpenMMLab
 
